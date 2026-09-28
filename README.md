@@ -7,7 +7,7 @@
 
 B.S. Computer Science, Rutgers University '26.
 
-Currently doing joint work on full-stack projects and pursuing my health level 7 certificate.
+Currently doing joint work as a cybersecurity analyst at Stevens University as well as my own full-stack projects.
 
 ---
 
@@ -17,6 +17,7 @@ Currently doing joint work on full-stack projects and pursuing my health level 7
 **Frontend** — React.js · Next.js · Tailwind CSS · HTML · CSS  
 **Backend & Data** — Node.js · MongoDB · SQL · Neon · Pandas  
 **Tooling** — Git · Vercel · AWS · PostHog · VS Code
+**Certificates** — HL7
 
 ---
 
