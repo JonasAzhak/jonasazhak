@@ -35,6 +35,8 @@ Digitized and organized patient records, maintained strict data confidentiality.
 
 ### Projects
 
+**RUScheduler** — Scheduling website for college students to better plan their full 4 year stay around their own preferences in classes, professors, and course load.
+
 **[jonasazhak.com](https://jonasazhak.com)** — Personal portfolio built from scratch with Next.js and the Canvas API. Interactive solar system navigation, custom page transitions, and a full space ambience layer.
 
 **Simulated Legal Case Analysis** — Logistic regression model built with Scikit-learn to predict defense case outcomes. Full ML pipeline: data simulation, EDA with Pandas/Matplotlib, model evaluation.
