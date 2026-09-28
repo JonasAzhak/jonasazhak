@@ -23,7 +23,9 @@ Currently doing joint work as a cybersecurity analyst at Stevens University as w
 
 ### Work
 
-**Subletr** — Software Engineer, Founding Member *(Jun 2024 – Present)*  
+**Stevens University** — Cybersecurity Analyst *(Sep 2026 — Present)*
+
+**Subletr** — Software Engineer, Founding Member *(Jun 2024 – Dec 2025)*  
 Full-stack work on a housing platform serving 1000+ users. Real-time messaging, reservation flows, email notifications.
 
 **Capio Mario MD** — Medical Records Clerk *(Jun 2022 – Aug 2022)*  
